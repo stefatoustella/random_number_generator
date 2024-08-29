@@ -1,2 +1,2 @@
 # random_number_generator
-Random Numbers (unique numbers)
+Random Numbers (Produce Unique Numbers)
